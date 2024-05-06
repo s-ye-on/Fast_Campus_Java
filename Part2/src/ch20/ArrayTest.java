@@ -28,7 +28,11 @@ public class ArrayTest {
         System.out.println(total2);
 
 
-
+        /**
+         * 배열 크기는 5지만 배열이 다 안채워짐
+         * dArr.length로 for 문을 돌리면 결과가 0된다
+         * 그럴 경우 count 변수 하나 새로 두고 count로 돌리는 방법이 있다
+         */
         double [] dArr = new double[5];
         int count =0;
 
