@@ -24,6 +24,7 @@ public class CustomerTest {
         for(Customer customer : customerList){
             System.out.println(customer.showCustomerInfo());
         }
+        System.out.println(); //줄띄움
         int price = 10000;
 
         for(Customer customer : customerList){

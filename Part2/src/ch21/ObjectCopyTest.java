@@ -14,6 +14,9 @@ public class ObjectCopyTest {
         library[4] = new Book("태백산맥5", "조정래");
 
         //배열 복사
+        /**
+         * System.arrayCopy(src, srcPs, dest, destPos, length)
+         */
         System.arraycopy(library, 0, copyLibrary, 0, 5);
 
 

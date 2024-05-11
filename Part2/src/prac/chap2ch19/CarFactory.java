@@ -1,4 +1,4 @@
-package chap2ch19;
+package prac.chap2ch19;
 
 public class CarFactory {
 
