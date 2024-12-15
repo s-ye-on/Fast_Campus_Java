@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreeCourse_practice/FreeCourse_practice.iml" filepath="$PROJECT_DIR$/FreeCourse_practice/FreeCourse_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Inteli_FAST.iml" filepath="$PROJECT_DIR$/.idea/Inteli_FAST.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part2/Part2.iml" filepath="$PROJECT_DIR$/Part2/Part2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part3/Part3.iml" filepath="$PROJECT_DIR$/Part3/Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream_practice/Stream_practice.iml" filepath="$PROJECT_DIR$/Stream_practice/Stream_practice.iml" />
     </modules>
   </component>
 </project>
